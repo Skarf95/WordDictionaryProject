@@ -33,14 +33,18 @@ public class WordManager {
 	public void start( ) {
 		while (true) {
 		int menu = selectMenu( );
-		if (menu == 0) break;
+		if (menu == 0) {
+			wordCRUD.endMenu();
+		}
 		if (menu == 4 ) {
 			wordCRUD.addWord();
 		}
 		else if (menu == 1) {
 			wordCRUD.listAll();
 		}
+		else break;
+		}
 	}
-	}
+	
 }
 

@@ -60,6 +60,9 @@ public class WordCRUD implements ICRUD{
 		System.out.println("-----------------------------");
 		
 	}
-
+	public void endMenu() {
+		System.out.println("프로그램 종료! 다음에 만나요~");
+	}
+	
 }
 
