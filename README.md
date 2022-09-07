@@ -1,6 +1,6 @@
 # WordDictionaryProject
 
-##Java CRUD - Create
+## Java CRUD - Create
 
 **WordManager Class**
   - selectMenu Function
@@ -15,7 +15,7 @@
 ![JavaCRUD](https://user-images.githubusercontent.com/63996076/188782682-80d57f2d-7020-47b7-973d-48a1857572e0.png)
 
 
-##Java CRUD - Read
+## Java CRUD - Read
 
 **Reading Data**
   - WordManager class: Reading words from menu
@@ -25,7 +25,7 @@
 
 ![JavaCRUD-Read](https://github.com/Skarf95/WordDictionaryProject/issues/3#issue-1364046927)
 
-##End Program
+## End Program
 
   - endMenu(): terminating the program
 
