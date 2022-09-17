@@ -44,7 +44,15 @@
 ![deleteWord](https://user-images.githubusercontent.com/63996076/190865357-3199f0bc-4af3-4c2c-b0d9-9595e8e22ebe.png)
 
 ## Deletion success
+
 ![deletionSuccess](https://user-images.githubusercontent.com/63996076/190865460-6014eb65-3bdc-41fc-9c74-b1a6f88e55fa.png)
 
 ## Saved word
+
 ![saved](https://user-images.githubusercontent.com/63996076/190865604-8b366afc-f5b2-4e71-af7b-c5f3c7d286ee.png)
+
+## Search Level
+
+![level](https://user-images.githubusercontent.com/63996076/190865694-17bf61dc-61d7-4fa7-b2c5-9f911ead653e.png)
+
+
