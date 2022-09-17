@@ -51,8 +51,18 @@
 
 ![saved](https://user-images.githubusercontent.com/63996076/190865604-8b366afc-f5b2-4e71-af7b-c5f3c7d286ee.png)
 
+
 ## Search Level
 
 ![level](https://user-images.githubusercontent.com/63996076/190865694-17bf61dc-61d7-4fa7-b2c5-9f911ead653e.png)
 
+## Finding word
+
+![findingWord](https://user-images.githubusercontent.com/63996076/190865781-2e76d3b7-27d7-44aa-972a-f718dfa7b29f.png)
+
+## End Program
+
+  - endMenu(): terminating the program
+
+![endProgram](https://user-images.githubusercontent.com/63996076/188784728-d733e426-189c-47fb-bec7-e09b1fb758bb.png)
 
