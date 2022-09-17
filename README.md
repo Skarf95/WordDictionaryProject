@@ -41,4 +41,4 @@
 
 ## Deleting word
 
-![deleteWord] (https://user-images.githubusercontent.com/63996076/190865357-3199f0bc-4af3-4c2c-b0d9-9595e8e22ebe.png)
+![deleteWord](https://user-images.githubusercontent.com/63996076/190865357-3199f0bc-4af3-4c2c-b0d9-9595e8e22ebe.png)
