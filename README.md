@@ -38,3 +38,7 @@
 ![modifyWord](https://user-images.githubusercontent.com/63996076/190864805-cb897bbf-ddc4-41f9-8245-4da306d41f9c.png)
 
 ![modifyDone](https://user-images.githubusercontent.com/63996076/190865234-6b3c0e04-8a4e-4939-83c0-2e75aa12bb00.png)
+
+## Deleting word
+
+![deleteWord] (https://user-images.githubusercontent.com/63996076/190865357-3199f0bc-4af3-4c2c-b0d9-9595e8e22ebe.png)
