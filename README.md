@@ -42,3 +42,6 @@
 ## Deleting word
 
 ![deleteWord](https://user-images.githubusercontent.com/63996076/190865357-3199f0bc-4af3-4c2c-b0d9-9595e8e22ebe.png)
+
+## Deletion success
+![deletionSuccess]https://user-images.githubusercontent.com/63996076/190865460-6014eb65-3bdc-41fc-9c74-b1a6f88e55fa.png
