@@ -45,3 +45,6 @@
 
 ## Deletion success
 ![deletionSuccess](https://user-images.githubusercontent.com/63996076/190865460-6014eb65-3bdc-41fc-9c74-b1a6f88e55fa.png)
+
+## Saved word
+![saved](https://user-images.githubusercontent.com/63996076/190865604-8b366afc-f5b2-4e71-af7b-c5f3c7d286ee.png)
